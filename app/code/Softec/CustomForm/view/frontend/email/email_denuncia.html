@@ -1,0 +1,45 @@
+{{template config_path="design/email/header_template"}}
+<!--@subject {{trans "Correo de Denuncia "}}  @-->
+<table>
+    <tr>
+    	<td><strong>RUT</strong></td>
+    	<td>{{var rut}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Nombre Completo</strong></td>
+    	<td>{{var nombre_completo}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Email</strong></td>
+    	<td>{{var correo_electronico}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Teléfono Contacto</strong></td>
+    	<td>{{var telefono_contacto}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Tipo Persona</strong></td>
+    	<td>{{var tipo_personal}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Conocimiento</strong></td>
+    	<td>{{var conocimiento}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Detalle</strong></td>
+    	<td>{{var detalle}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Otros Asuntos</strong></td>
+    	<td>{{var otros_asuntos}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Tipo Denuncia</strong></td>
+    	<td>{{var tipo_denuncia}}</td>
+    </tr>
+    <tr>
+        <td><strong>Archivo</strong></td>
+        <td>{{var archivo}}</td>
+    </tr>
+</table>
+{{template config_path="design/email/footer_template"}}

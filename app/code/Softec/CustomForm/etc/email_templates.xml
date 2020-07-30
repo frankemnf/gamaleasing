@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+<template id="email_home" label="Email Home" file="email_home.html" type="html" module="Softec_CustomForm" area="frontend"/>
+<template id="email_denuncia" label="Email Denuncia" file="email_denuncia.html" type="html" module="Softec_CustomForm" area="frontend"/>
+<template id="email_contacto" label="Email contacto" file="email_contacto.html" type="html" module="Softec_CustomForm" area="frontend"/>
+</config>

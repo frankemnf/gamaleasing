@@ -1,0 +1,2341 @@
+body {
+	font-family: Lato, sans-serif 
+}
+#autosUsados .car-tags {
+	height: 30px 
+}
+#autosUsados .col-xs-7.Compartir {
+	margin: 0!important 
+}
+#autosUsados .DescripBox {
+	font-size: 11px;
+	padding: 5px;
+	color: #7b7b7b 
+}
+#autosUsados .divCuota {
+	background: #f1f1f1;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	width: 55%;
+	margin-left: 20%;
+	margin-right: 20% 
+}
+#autosUsados p.ico-tex {
+	width: 18%;
+	float: left 
+}
+#autosUsados .msj-g {
+	font-size: 40px;
+	color: #da0b13;
+	margin-left: 14px 
+}
+#autosUsados .boxLista {
+	width: 100%;
+	float: left;
+	margin: 0 auto 
+}
+#autosUsados .boxLista ul {
+	float: left;
+	display:block 
+}
+#autosUsados .boxLista ul li {
+	width: 47%;
+	padding: 3px 10px 3px 0;
+	color: #333;
+	float: left;
+	margin-right: 15px;
+	font-size: 14px;
+	display: list-item;
+	text-align: -webkit-match-parent 
+}
+#autosUsados .top-header {
+	background-color: #363f48;
+	border-bottom: 1px solid #363f48;
+	padding: 5px 0 
+}
+#autosUsados .top-header .list-inline {
+	margin-top: 6px;
+	margin-bottom: 0 
+}
+#autosUsados .list-inline li {
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px 
+}
+#autosUsados .list-inline li a {
+	text-decoration: none;
+	color: #FFF 
+}
+#autosUsados .list-inline li a i {
+	margin-right: 10px 
+}
+#autosUsados .top-buttons {
+	text-align: right 
+}
+#autosUsados .btn-grey {
+	color: #fff;
+	background-color: rgba(0,0,0,.2);
+	border-color: rgba(0,0,0,.1) 
+}
+#autosUsados .btn-grey:hover, .btn-grey.active, .btn-grey.focus, .btn-grey:active, .btn-grey:focus {
+	color: #fff;
+	background-color: rgba(0,0,0,.35);
+	border-color: rgba(0,0,0,.2) 
+}
+#autosUsados .main-header {
+	width: 100%;
+	background: #fff 
+}
+#autosUsados .navbar-default {
+	background: 0 0;
+	border: none;
+	margin-bottom: 0;
+	border-radius: 0 
+}
+#autosUsados .main-header .navbar-default .nav>li>a {
+	display: block;
+	padding: 5px 20px;
+	margin-left: 25px;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #686868 
+}
+#autosUsados .main-header .navbar-default .nav>li>a:hover {
+	background: #f5f5f5;
+	color: #da0b13;
+	border: none 
+}
+#autosUsados .main-header .navbar-default .nav>li>.active {
+	color: #da0b13;
+	background: #f5f5f5 
+}
+#autosUsados .main-header .navbar-default .nav {
+	margin-top: 32px 
+}
+#autosUsados .navbar-brand-logo {
+	float: left;
+	padding: 23px 0;
+	width: 236px 
+}
+#autosUsados .navbar-brand-logo img {
+	height: 50px 
+}
+#autosUsados .dropdown-menu>li>a {
+	display: block;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	font-size: 12px;
+	border-left: solid 5px #fff;
+	border-bottom: solid 1px #fff;
+	background: 0 0 
+}
+#autosUsados .dropdown-menu>li>a:hover {
+	border-left: solid 5px #da0b13;
+	background: 0 0;
+	border-bottom: solid 1px #f1f1f1 
+}
+#autosUsados .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background-color: #f5f5f5;
+	border-color: #fff 
+}
+#autosUsados .banner {
+	width: 100%;
+	color: #fff 
+}
+#autosUsados .banner .item {
+	height: 546px 
+}
+#autosUsados .carousel-control.left, #autosUsados .carousel-control.right {
+	background: 0 0 
+}
+#autosUsados .slider-mover-left {
+	width: 40px;
+	height: 40px;
+	line-height: 37px;
+	position: absolute;
+	top: 43%;
+	z-index: 5;
+	display: inline-block;
+	left: 5px;
+	background: #1B1410 
+}
+#autosUsados .s-lineDownLeft {
+	border-bottom: 1px solid #B4B4B4;
+	position: relative 
+}
+#autosUsados .s-lineDownLeft:after {
+	background-image: url(../img/chevron-down.png);
+	background-repeat: no-repeat;
+	width: 15px;
+	right: 12%;
+	height: 12px;
+	content: '';
+	position: absolute;
+	top: 82%;
+	display: block 
+}
+#autosUsados .slider-mover-left img {
+	width: 16px;
+	height: 23px 
+}
+#autosUsados .slider-mover-right {
+	width: 40px;
+	height: 40px;
+	line-height: 37px;
+	position: absolute;
+	top: 43%;
+	z-index: 5;
+	display: inline-block;
+	right: 5px;
+	background: #1B1410 
+}
+#autosUsados .slider-mover-right img {
+	width: 16px;
+	height: 23px 
+}
+#autosUsados .content-area {
+	padding: 50px 0 
+}
+#autosUsados .section-heading {
+	margin-bottom: 0 
+}
+#autosUsados .section-heading i {
+	float: left;
+	width: 46px;
+	height: 46px;
+	display: inline-block;
+	text-align: center;
+	line-height: 46px;
+	background-color: #FF871F;
+	color: #fff;
+	margin-right: 10px;
+	font-size: 16px;
+	border-radius: 25px;
+}
+#autosUsados .margin-b-15 {
+	margin-bottom: 15px 
+}
+#autosUsados .section-heading h2 {
+	margin: 0 0 5px;
+	padding-left: 5px;
+	font-size: 20px;
+	color: #333;
+	font-weight: 700;
+	text-transform: uppercase 
+}
+#autosUsados h2.h2ficha {
+	margin: 0 0 5px;
+	padding-left: 5px;
+	font-size: 20px;
+	color: #333;
+	font-weight: 700;
+	text-transform: uppercase 
+}
+#autosUsados .section-heading h2 {
+	border-left: 2px solid #FF871F;
+}
+#autosUsados h2.h2ficha {
+	border-left: 0 
+}
+#autosUsados .section-heading .border {
+	height: 2px;
+	width: 30px;
+	background: #da0b13;
+	float: left 
+}
+#autosUsados .section-heading h4 {
+	color: #9a9a9a 
+}
+#autosUsados .option-bar {
+	border-radius: 3px;
+	background: #fff;
+	padding: 15px;
+	border: 1px solid #E4E3E3;
+	margin-bottom: 20px 
+}
+#autosUsados .option-bar .sorting-options {
+	margin-top: 10px 
+}
+#autosUsados .option-bar .sorting {
+	padding: 8px 12px;
+	background: #FFF;
+	border: 1px solid #EEE;
+	color: #999;
+	margin-right: 5px;
+	font-size: 13px;
+	font-weight: 300 
+}
+#autosUsados .change-view-btn {
+	color: #da0b13;
+	border-radius: 2px;
+	background: #f8f8f8;
+	padding: 7px 10px;
+	margin-left: 5px;
+	border: 1px solid #da0b13 
+}
+#autosUsados .change-view-btn:hover {
+	color: #f8f8f8;
+	border-radius: 2px;
+	background: #da0b13;
+	padding: 7px 10px;
+	margin-left: 5px;
+	border: 1px solid #da0b13 
+}
+#autosUsados .active-view-btn {
+	background: #da0b13;
+	color: #FFF;
+	padding: 7px 10px;
+	margin-left: 5px;
+	border: 1px solid #da0b13 
+}
+#autosUsados .active-view-btn:hover {
+	color: #da0b13;
+	background: 0 0;
+	border: 1px solid #da0b13 
+}
+#autosUsados .car-box {
+	border-radius: 3px 
+}
+#autosUsados .car-box:hover {
+	box-shadow: 0 0 0 0 rgba(0,0,0,.1), 0 6px 5px 0 rgba(0,0,0,.1) 
+}
+#autosUsados .car-box .sale {
+	text-decoration: none 
+}
+#autosUsados .car-box .car-content {
+	padding: 0;
+	background: #fff 
+}
+#autosUsados .car-content h3 {
+	margin-top: 10px!important;
+	text-transform: uppercase;
+	color: #363f48;
+	border-left: 2px solid #FF871F;
+	font-size: 12px!important;
+	font-weight: 600;
+	padding: 3px 0 3px 7px;
+}
+#autosUsados .car-content h3 span {
+	float: right;
+	font-size: 15px;
+	font-weight: 700;
+	color: #da0b13 
+}
+#autosUsados .car-content .car-tags ul {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: inline-block 
+}
+#autosUsados .car-content .car-tags ul li {
+	float: left;
+	display: block;
+	margin: 0 4px 0 0;
+	border-radius: 3px;
+	font-size: 10px;
+	color: #7b7b7b;
+	font-weight: 600;
+	padding: 0 5px 
+}
+#autosUsados .details-button {
+	text-align: center;
+	display: inline-block;
+	margin: 0;
+	width: 100%!important 
+}
+#autosUsados .details-button a {
+	font-size: 11px;
+	font-weight: 700;
+	text-transform: uppercase;
+	display: inline-block;
+	text-align: center;
+	letter-spacing: 1px;
+	color: #fff;
+	padding: 7px 13px;
+	background-color: #FF871F;
+	border-radius: 2px;
+	text-decoration: none;
+	width: 100%;
+}
+#autosUsados .details-button a:hover {
+	background-color: #ef7003;
+}
+#autosUsados .car-box .header h3 a {
+	text-decoration: none;
+	color: #585858 
+}
+#autosUsados .car-box .header h3 a:hover {
+	color: #313131 
+}
+#autosUsados .car-content p {
+	font-size: 14px;
+	margin-bottom: 20px;
+	color: #696969;
+	font-weight: 400 
+}
+#autosUsados p.c01, #autosUsados p.c02 {
+	font-size: 12px;
+	line-height: 16px;
+	color: #484848;
+}
+#autosUsados .car-box img {
+	width: 100% 
+}
+#autosUsados .caja50 {
+	float: left 
+}
+#autosUsados .search-block {
+	margin-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 15px 
+}
+#autosUsados input#pie {
+	border: 1px solid #ccc!important;
+	height: 25px;
+	width: 100% 
+}
+#autosUsados .checkbox-inline+.checkbox-inline, .radio-inline+.radio-inline {
+	margin-top: 0;
+	margin-left: 0 
+}
+#autosUsados p.c02 {
+	float: left;
+	margin-right: 10px 
+}
+#autosUsados .car-box {
+	background: #fff;
+	padding: 15px;
+	border: 1px solid #E4E3E3;
+	margin-bottom: 30px;
+	position: relative 
+}
+#autosUsados .caja-auto {
+   /* position: relative;
+	*/
+	min-height: 1px;
+	padding-right: 5px!important;
+	padding-left: 5px!important 
+}
+#autosUsados .header h3 {
+	text-transform: uppercase;
+	border-left: 2px solid #FF871F;
+	font-size: 12px!important;
+}
+#autosUsados .header h3 a {
+	text-decoration: none;
+	color: #585858 
+}
+#autosUsados .header h3 a:hover {
+	color: #da0b13 
+}
+#autosUsados .header h3 span {
+	float: right;
+	font-size: 14px;
+	font-weight: 700;
+	color: #da0b13 
+}
+#autosUsados .paginacion {
+	clear: both;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px 
+}
+#autosUsados .paginacion a {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	cursor: pointer;
+	color: #333;
+	margin: 0 3px;
+	padding: 9px 12px 10px;
+	text-decoration: none;
+	background-color: #f5f5f5;
+	border-right: 1px solid #74aee0;
+	font-weight: 400;
+	border-top: 1px solid #74aee0;
+	border-left: 1px solid #74aee0;
+	border-bottom: 1px solid #74aee0 
+}
+#autosUsados .paginacion a:hover {
+	color: #CCC;
+	background-color: #666;
+	border: 1px solid #666 
+}
+#autosUsados .paginacion a.jp-current, a.jp-current:hover {
+	background-color: #da0b13;
+	border: 1px solid #da0b13;
+	color: #FFF 
+}
+#autosUsados .paginacion a.jp-disabled, A.jp-disabled:hover {
+	color: #333 
+}
+#autosUsados .paginacion a.jp-current, .paginacion a.jp-disabled, a.jp-current:hover, a.jp-disabled:hover {
+	cursor: default 
+}
+#autosUsados .paginacion span {
+	padding: 0 3px 8px;
+	text-decoration: none;
+	color: #da0b13 
+}
+#autosUsados label {
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+	padding-left: 25px;
+	margin-right: 15px;
+	font-size: 13px;
+	margin-bottom: 10px 
+}
+#autosUsados label:before {
+	content: "";
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin-right: 20px;
+	position: absolute;
+	left: 0;
+	bottom: 1px;
+	background-color: transparent;
+	box-shadow: none;
+	border-radius: 0;
+	border: 1px solid #b7b5b5 
+}
+#autosUsados input[type=checkbox] {
+	display: none 
+}
+#autosUsados input[type=checkbox]:checked+label:before {
+	content: "\2713";
+	text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+	font-size: 15px;
+	color: #f3f3f3;
+	text-align: center;
+	line-height: 15px 
+}
+#autosUsados .checkbox label, .radio label {
+	min-height: 20px;
+	padding-left: 30px;
+	margin-bottom: 0;
+	font-weight: 400;
+	cursor: pointer 
+}
+#autosUsados .checkbox {
+	padding-left: 20px 
+}
+#autosUsados .checkbox label {
+	display: inline-block;
+	position: relative;
+	padding-left: 13px 
+}
+#autosUsados .checkbox label::before {
+	content: "";
+	display: inline-block;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 0;
+	margin-left: -20px;
+	border: 1px solid #ccc;
+	border-radius: 9px;
+	background-color: #fff;
+	-webkit-transition: border .15s ease-in-out, color .15s ease-in-out;
+	-o-transition: border .15s ease-in-out, color .15s ease-in-out;
+	transition: border .15s ease-in-out, color .15s ease-in-out 
+}
+#autosUsados .checkbox label::after {
+	display: inline-block;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0;
+	top: 0;
+	margin-left: -20px;
+	padding-left: 3px;
+	padding-top: 1px;
+	font-size: 11px;
+	color: #555 
+}
+#autosUsados .checkbox-theme input[type=checkbox]:checked+label::after {
+	color: #fff 
+}
+#autosUsados .checkbox-theme input[type=checkbox]:checked+label::before {
+	background-color: #da0b13;
+	border-color: #da0b13 
+}
+#autosUsados .search-block .list-1 li {
+	list-style: none;
+	line-height: 30px;
+	font-weight: 700;
+	font-size: 12px 
+}
+#autosUsados .search-block .list-1 li a {
+	text-decoration: none;
+	font-weight: 400;
+	color: #434955 
+}
+#autosUsados .search-block label {
+	font-size: 12px;
+	line-height: 16px;
+	color: #484848;
+}
+#autosUsados .search-block .list-1 {
+	padding: 0 
+}
+#autosUsados .share {
+	background: #f1f1f1;
+	float: left;
+	width: 100%;
+	padding: 21px 30px;
+}
+#autosUsados .share ul {
+	padding: 0;
+	margin: 0;
+	float: right 
+}
+#autosUsados .share h2 {
+	color: #fff;
+	font-weight: 400;
+	font-size: 26px;
+	margin: 5px 0 0;
+	float: left 
+}
+#autosUsados .orange-color {
+	color: orange 
+}
+#autosUsados .panel-body {
+	padding: 35px 
+}
+#autosUsados .panel-div a {
+	text-decoration: none 
+}
+#autosUsados .panel-div .panel-default>.panel-heading {
+	background-color: #fff;
+	padding: 13px 5px 13px 15px;
+	border-radius: 0;
+	color: #f34b0a 
+}
+#autosUsados .panel-title i {
+	margin-right: 10px;
+	background: #f34b0a;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 0;
+	color: #fff 
+}
+#autosUsados .panel-default {
+	border: none 
+}
+#autosUsados .panel-group .panel+.panel {
+	margin-top: 15px 
+}
+#autosUsados .page-section p {
+	color: #444!important;
+	line-height: 24px;
+	font-weight: 400 
+}
+#autosUsados .car-details {
+	width: 100%;
+	padding: 50px 0 10px 
+}
+#autosUsados .car-details-header-price h3 {
+	font-size: 32px;
+	font-weight: 600;
+	margin: 0 0 5px;
+	color: #e90011 
+}
+#autosUsados .car-details-header-price p {
+	margin: 0 
+}
+#autosUsados #carousel-custom .carousel-indicators {
+	margin: 10px 0 0;
+	overflow: auto;
+	position: static;
+	text-align: left;
+	white-space: nowrap;
+	width: 100% 
+}
+#autosUsados #carousel-custom .carousel-indicators li {
+	background-color: transparent;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	display: inline-block;
+	height: auto;
+	margin: 0!important;
+	width: auto 
+}
+#autosUsados #carousel-custom .carousel-indicators li img {
+	display: block;
+	opacity: .5 
+}
+#autosUsados #carousel-custom .carousel-indicators li.active img {
+	opacity: 1 
+}
+#autosUsados #carousel-custom .carousel-indicators li:hover img {
+	opacity: .75 
+}
+#autosUsados #carousel-custom .carousel-outer {
+	position: relative 
+}
+#autosUsados .thumb-preview {
+	height: initial;
+	width: 100% 
+}
+#autosUsados .thumbs {
+	width: 100%!important;
+	margin: 12px auto!important;
+	background: #dde3e4;
+	padding: 10px 0 6px 10px 
+}
+#autosUsados .thumbs img {
+	width: 80px;
+	height: 50px 
+}
+#autosUsados .sobuz {
+	background: red;
+	padding: 10px 
+}
+#autosUsados .img-responsive {
+	width: 100% 
+}
+#autosUsados .car-details-content-body {
+	margin: 20px 0 30px;
+	background: #fff 
+}
+#autosUsados .panel-body p {
+	color: #666;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 22px;
+	margin-bottom: 20px 
+}
+#autosUsados .panel-default>.panel-heading {
+	color: #333;
+	background-color: #fff;
+	border-color: #ddd;
+	border-radius: 0 
+}
+#autosUsados .panel-default {
+	background: 0 0 
+}
+#autosUsados .panel-body {
+	background: #fff;
+	border: 1px solid #E4E3E3;
+	border-radius: 3px 
+}
+#autosUsados .nav-tabs>li>a {
+	margin-right: 3px;
+	line-height: 1.42857143;
+	border-top: solid 2px #fff;
+	border-radius: 0;
+	background: 0 0;
+	color: #000;
+	font-weight: 700 
+}
+#autosUsados .nav>li>a:hover {
+	text-decoration: none;
+	background-color: #fff;
+	color: #da0b13;
+	border-top: solid 2px #fff 
+}
+#autosUsados .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	color: #000;
+	cursor: default;
+	background-color: none;
+	border-top: solid 2px #FF871F;
+}
+#autosUsados .features ul {
+	margin: 0;
+	padding: 0 
+}
+#autosUsados .features ul li {
+	list-style: none;
+	line-height: 30px;
+	position: relative;
+	padding-left: 30px;
+	color: #666;
+	font-size: 13px;
+	text-align: left 
+}
+#autosUsados .features ul li i {
+	left: 11px;
+	top: 12px;
+	font-size: 16px;
+	color: #da0b13;
+	position: absolute 
+}
+#autosUsados .technical ul {
+	margin: 0;
+	padding: 0 
+}
+#autosUsados .technical ul li {
+	list-style: none;
+	font-weight: 700;
+	border-bottom: 1px dotted #d4cece;
+	line-height: 35px;
+	color: #666 
+}
+#autosUsados .form-horizontal .form-control, #autosUsados .form-horizontal textarea {
+	border: 1px solid #eee;
+	margin-bottom: 25px;
+	font-size: 12px;
+	color: #888;
+	height: 40px;
+	padding: 12px 15px;
+	outline: 0;
+	width: 100% 
+}
+#autosUsados .technical ul li span {
+	float: right;
+	font-weight: 400 
+}
+#autosUsados .form-horizontal .form-control {
+	box-shadow: none 
+}
+#autosUsados .form-horizontal textarea {
+	min-height: 160px;
+	resize: none 
+}
+#autosUsados .car-detail-block .car-detail-info-list {
+	margin: 0;
+	padding: 0 
+}
+#autosUsados .car-sidebar-right {
+	width: 100% 
+}
+#autosUsados .car-detail-block {
+	border: 1px solid #E4E3E3;
+	padding: 20px;
+	background: #fff;
+	border-radius: 3px;
+	width: 100%;
+	float: left 
+}
+#autosUsados .car-detail-block .title {
+	text-align: left;
+	font-size: 19px;
+	line-height: 26px;
+	border-left: solid 2px #FF871F;
+	padding: 0 0 0 13px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #343434;
+	margin-top: 0;
+}
+#autosUsados .car-detail-info-list li {
+	list-style: none;
+	line-height: 34px;
+	color: #999;
+	text-align: right 
+}
+#autosUsados .info-comentario h2.title, #autosUsados .share .title {
+	font-size: 19px;
+	line-height: 26px;
+	font-weight: 700;
+	text-transform: uppercase 
+}
+#autosUsados .car-detail-info-list li span {
+	font-weight: 700;
+	margin-right: 10px;
+	float: left;
+	color: #fff;
+	border-bottom: none 
+}
+#autosUsados .share .title {
+	margin: 0 0 20px;
+	border-left: solid 2px #FF871F;
+	padding: 0 0 0 15px;
+	color: #484848;
+}
+#autosUsados .mrg-b-30 {
+	margin-bottom: 25px!important;
+	text-align: left 
+}
+#autosUsados .Phono2017 {
+	padding: 10px 
+}
+#autosUsados .info-comentario h2.title {
+	border-left: solid 2px #da0b13;
+	padding: 0 0 0 13px;
+	color: #da0b13;
+	margin-top: 0 
+}
+#autosUsados .btn-submit {
+	background: #da0b13;
+	border-radius: 0;
+	border: solid #e90011;
+	padding: 13px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff 
+}
+#autosUsados .btn-submit a {
+	color: #fff;
+	text-decoration: none 
+}
+#autosUsados .btn-submit:hover {
+	background: #da0b13;
+	border: solid #da0b13;
+	color: #fff 
+}
+#autosUsados .back_to_home {
+	display: inline-block;
+	margin-bottom: 1.5em;
+	padding: 5px 10px;
+	outline: 0;
+	color: #fbfafa;
+	vertical-align: baseline;
+	text-align: center;
+	text-decoration: none;
+	font: 13px Arial;
+	cursor: pointer;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #fe5214 
+}
+#autosUsados .btn-s {
+	width: 100%;
+	border-radius: 0;
+	padding: 22px 15px;
+	text-transform: uppercase;
+	font-weight: 700;
+	background: #f34b0a;
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #f34b0a;
+	margin: 10px 0 
+}
+#autosUsados .btn-s:hover {
+	background: #de460b 
+}
+#autosUsados .car-content h3 span p i {
+	font-size: 10px;
+	margin: 0 
+}
+#autosUsados .car-content h3 span p {
+	margin: 0 
+}
+#autosUsados .filtro001 {
+	background: #f1f1f1;
+	padding: 10px 5px;
+	margin-bottom: 10px;
+	border: 1px solid silver;
+}
+#autosUsados .select-f {
+	margin: 0!important;
+	padding: 5px 
+}
+#autosUsados .bajo001 {
+	cursor: pointer;
+	padding: 4px;
+	color: #454545;
+	overflow: hidden;
+	background: url(../image/flechaBus.png) right no-repeat #FFF;
+	border: 1px solid silver;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-o-appearance: none;
+	appearance: none 
+}
+#autosUsados .ribbon-css, #autosUsados .ribbon-css-Ficha {
+	text-transform: uppercase;
+	text-align: center;
+	-webkit-transform: rotate(320deg);
+	-moz-transform: rotate(320deg);
+	-ms-transform: rotate(320deg);
+	-o-transform: rotate(320deg);
+	padding: 7px 0 
+}
+#autosUsados .wrapper {
+	margin: 50px auto;
+	width: 280px;
+	height: 370px;
+	-webkit-box-shadow: 0 0 8px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 0 8px rgba(0,0,0,.3);
+	box-shadow: 0 0 8px rgba(0,0,0,.3);
+	position: relative;
+	z-index: 90 
+}
+#autosUsados .ribbon-wrapper {
+	z-index: 900;
+	width: 130px;
+	height: 119px;
+	overflow: hidden;
+	position: absolute 
+}
+#autosUsados .ribbon-css {
+	font: 11px Lato, sans-serif;
+	font-weight: 600;
+	position: relative;
+	left: -41px;
+	top: 25px;
+	width: 180px;
+	color: #fff;
+	-webkit-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	box-shadow: 0 0 3px rgba(0,0,0,.3) 
+}
+#autosUsados .ribbon-wrapper-Ficha {
+	z-index: 900;
+	width: 173px;
+	height: 148px;
+	overflow: hidden;
+	position: absolute 
+}
+#autosUsados .ribbon-css-Ficha {
+	font-size: 12px;
+	font-weight: 600;
+	text-shadow: rgba(255,255,255,.5) 0 1px 0;
+	position: relative;
+	left: -62px;
+	top: 45px;
+	width: 268px;
+	color: #fff;
+   /* -webkit-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	*/
+	-moz-box-shadow: 0 0 3px rgba(0,0,0,.3);
+   /* box-shadow: 0 0 3px rgba(0,0,0,.3) */
+}
+#autosUsados .ribbon-green {
+	color: #fff;
+	background-color: #5aab3e 
+}
+#autosUsados .ribbon-orange {
+	color: #fff;
+	background-color: #ff8f00 
+}
+#autosUsados .ribbon-yellow {
+	color: #fff;
+	background-color: #fcb73f 
+}
+#autosUsados .ribbon-blue {
+	color: #fff;
+	background-color: #0037b9 
+}
+#autosUsados .ribbon-red {
+	color: #fff;
+	background-color: #cd2b25 
+}
+#autosUsados .ribbon-purple {
+	color: #fff;
+	background-color: #6200b9 
+}
+#autosUsados .ribbon-red2 {
+	color: #fff;
+	background-color: #cd2b25 
+}
+#autosUsados .ribbon-blue2 {
+	color: #fff;
+	background-color: #0051c5 
+}
+#autosUsados .ribbon-pink {
+	color: #fff;
+	background-color: #9f00a0 
+}
+#autosUsados .ribbon-green2 {
+	color: #fff;
+	background-color: #018f34 
+}
+#autosUsados ::-webkit-scrollbar {
+	width:5px;
+	height:5px 
+}
+#autosUsados .fondo-g, #autosUsados .load-semi {
+	z-index: 1;
+	width: 100%;
+	top: 0;
+	height: 100%;
+	position: fixed 
+}
+#autosUsados ::-webkit-scrollbar-track {
+	-webkit-box-shadow:inset 0 0 6px #da0b13;
+	-webkit-border-radius:5px;
+	border-radius:5px 
+}
+#autosUsados ::-webkit-scrollbar-thumb {
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	background:#da0b13;
+	-webkit-box-shadow:inset 0 0 6px #da0b13 
+}
+#autosUsados ::-webkit-scrollbar-thumb:window-inactive {
+	background:#da0b13 
+}
+#autosUsados .load-semi {
+	background: rgba(0,0,0,.36);
+	padding-right: 20%;
+	padding-left: 48%;
+	margin-right: auto;
+	margin-left: auto 
+}
+#autosUsados .load-semi img {
+	margin-top: 58%!important 
+}
+#autosUsados .fondo-g {
+	background: rgba(51,51,51,.58);
+	display: block 
+}
+#autosUsados .boton-gracia {
+	position: fixed;
+	top: 28%;
+	left: 63.5%;
+	color: #fff;
+	border: 2px solid #da0b13;
+	background: #da0b13;
+	border-radius: 30px;
+	padding: 3px 7px;
+	z-index: 99 
+}
+#autosUsados .banner-g {
+	float: left;
+	width: 80% 
+}
+#autosUsados h1.t-gracias {
+	width: 100%;
+	float: right 
+}
+#autosUsados p.tex-gracia {
+	width: 80%;
+	float: left;
+	color: #000;
+	font-size: 18px;
+	margin: 0 
+}
+#autosUsados .banner-gracia {
+	position: fixed;
+	top: 30%;
+	left: 35%;
+	background: #fff;
+	width: 30%;
+	float: left;
+	border: 1px solid #E4E3E3;
+	border-radius: 2px;
+	padding: 30px 10px;
+	z-index: 3 
+}
+#autosUsados .auto-detalle-list {
+	margin: 0;
+	padding: 0 
+}
+#autosUsados ul.auto-detalle-list {
+	padding: 0 10px 
+}
+#autosUsados .section-heading h4 {
+	font-size: 12px 
+}
+#autosUsados .auto-detalle-list li {
+	list-style: none;
+	line-height: 14px;
+	color: #999;
+	border-right: 1px dotted #DDD;
+	float: left;
+	font-size: 13px;
+	padding: 10px 5px;
+}
+#autosUsados .auto-detalle-list li span {
+	font-weight: 700;
+	margin-right: 2px;
+	float: left;
+	color: #3e3e3e 
+}
+#autosUsados .CarD {
+	float: left;
+	padding: 0 5px 
+}
+#autosUsados .detalle-ccc {
+	width: 100%!important;
+	text-align: left;
+	display: block;
+	float: left 
+}
+#autosUsados ul.car-detail-info-list {
+	margin: 0;
+	padding: 0 
+}
+#autosUsados .car-detail-info-list li a {
+	color: #fff;
+	text-decoration: none 
+}
+#autosUsados .volver-30 {
+	background: #e90011;
+	padding: 2px 0;
+	float: right;
+	position: absolute;
+	top: -1%;
+	width: 22%;
+	right: 6%;
+}
+#autosUsados .volver-30:before {
+	content: "";
+	position: absolute;
+	top: 0px;
+	left: -34px;
+	width: 0;
+	height: 0;
+	border-width: 17px;
+	border-style: solid;
+	border-color: transparent #e90011 transparent transparent;
+}
+#autosUsados .volver-30 a {
+	text-decoration: none 
+}
+#autosUsados .bcotiza {
+	display: none 
+}
+#autosUsados .volver-30 h2 {
+	margin-left: 10px;
+	color: #fff;
+	font-size: 14px;
+	margin-top: 8px;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+#autosUsados .flecha01 {
+	padding: 7px 0;
+	font-size: 17px;
+	color: #fff;
+	float: left;
+	margin-right: 11px;
+}
+#autosUsados .textDes {
+	padding: 1% 2%;
+	color: #000;
+	font-size: 10px;
+	text-align: justify;
+	float: left;
+	margin-top: 10px 
+}
+#autosUsados .Compartir-list {
+	text-align: right!important;
+	margin: 0;
+	padding: 0 
+}
+#autosUsados .Compartir-list li {
+	list-style: none;
+	float: right;
+	margin-right: 4px 
+}
+#autosUsados .Compartir-list li a {
+	font-size: 20px;
+	border-radius: 25px;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	padding-top: 4px;
+	text-align: center;
+	line-height: 28px;
+	color: #fff;
+	border: 2px solid rgba(255,255,255,.72) 
+}
+#autosUsados .alerta, #autosUsados .bton-seg02, #autosUsados .mrg-precio01 {
+	display: none 
+}
+#autosUsados .Compartir-list .facebook {
+	background: #3b589e 
+}
+#autosUsados .Compartir-list .twitter {
+	background: #2b97f0 
+}
+#autosUsados .Compartir-list .linkedin {
+	background: #1c82ca 
+}
+#autosUsados .Compartir-list .google {
+	background: #dc4e41 
+}
+#autosUsados .Compartir-list .rss {
+	background: #e78733 
+}
+#autosUsados .Compartir-list .vimeo {
+	background: #56d7fe 
+}
+#autosUsados .Compartir-list .Whatsapp {
+	background: #009f01 
+}
+#autosUsados .Compartir-list .volverF {
+	background: #e90011 
+}
+#autosUsados .mrg-precio {
+	text-align: center;
+	margin-bottom: 25px 
+}
+.costoTC {
+	font-size: 11px 
+}
+#autosUsados .CuotaC {
+	float: left;
+	font-size: 12px;
+	margin-right: 10px 
+}
+#autosUsados .CuotaP {
+	font-size: 20px;
+	font-weight: 600;
+	vertical-align: text-top 
+}
+#autosUsados .cuotaPie {
+	font-size: 11px 
+}
+#autosUsados .cant-resultados {
+	font-size: 12px;
+	color: #101010;
+	clear: both;
+}
+#autosUsados .valorF {
+	font-size: 11px 
+}
+#autosUsados @font-face {
+	font-family: youngregular;
+	src: url(../../css/fonts/young-webfont.woff2) format('woff2'), url(../../css/fonts/young-webfont.woff) format('woff');
+	font-weight: 400;
+	font-style: normal 
+}
+#autosUsados body {
+	padding: 0!important;
+	margin: 0 
+}
+#autosUsados .navbar {
+	margin-bottom: 0!important;
+	padding: 10px 0 
+}
+#autosUsados .navbar ul li a:hover {
+	border: none 
+}
+#autosUsados .dropdown-menu li a {
+	font-family: youngregular;
+	border: none;
+	padding: 3px 20px;
+	font-weight: 400;
+	font-size: 14px 
+}
+#autosUsados .nav-pag {
+	text-align: center!important 
+}
+#autosUsados .font ul li a {
+	font-family: youngregular;
+	color: #fff 
+}
+#autosUsados .font ul {
+	background-color: #222;
+	color: #fff;
+	border: none 
+}
+#autosUsados .font ul li a:hover {
+	background-color: #999;
+	color: #000 
+}
+#autosUsados .clear {
+	clear: both 
+}
+#autosUsados .color01 {
+	color: #C52D2F;
+	margin-right: 5px 
+}
+#autosUsados p.alert01 {
+	color: #000;
+	font-size: 12px 
+}
+#autosUsados .car-detail-slider {
+	position: relative;
+	overflow: hidden;
+	margin: 0px auto!important;
+}
+#autosUsados .C2 {
+	position: absolute;
+	float: left;
+}
+#autosUsados @media only screen and (min-width:200px) and (max-width:480px) {
+	.textbb {
+		font-size: 11px;
+		width: 100%;
+		float: left;
+   }
+   #autosUsados .caja-auto {
+		width:100%!important 
+   }
+   #autosUsados .banner-gracia {
+		position:fixed;
+		top:30%;
+		left:5%;
+		width:90%;
+		float:left;
+		border-radius:2px;
+		padding:30px 10px;
+		z-index:3 
+   }
+   #autosUsados .boton-gracia {
+		position:fixed;
+		top:28%;
+		left:90%;
+		border-radius:30px;
+		padding:3px 7px;
+		z-index:99 
+   }
+   #autosUsados p.tex-gracia {
+		font-size:15px 
+   }
+   #autosUsados .msj-g {
+		font-size:40px;
+		margin:0 10px 0 0 
+   }
+   #autosUsados .bton-seg01 {
+		display:none 
+   }
+   #autosUsados .bton-seg02 {
+		position:fixed!important;
+		display:block;
+		z-index:9999;
+		bottom:5px;
+		width:100%;
+		padding:5px 20px;
+		background:rgba(1,1,1,.69) 
+   }
+   #autosUsados .Compartir-list li a {
+		font-size:15px;
+		border-radius:25px;
+		display:inline-block;
+		width:28px;
+		height:28px;
+		padding-top:2px;
+		text-align:center;
+		line-height:20px;
+		color:#fff;
+		border:2px solid rgba(255,255,255,.72) 
+   }
+   #autosUsados .cotiza-30 {
+		border-radius:18px;
+		background:#e90011;
+		padding:3px 20px;
+		-webkit-box-shadow:2px 2px 20px 0 rgba(50,50,50,.75);
+		-moz-box-shadow:2px 2px 50px 0 rgba(50,50,50,.75);
+		box-shadow:2px 2px 10px 0 rgba(50,50,50,.75) 
+   }
+   #autosUsados 
+}
+@media only screen and (min-width:480px) and (max-width:750px) {
+	.C2{
+		display: none;
+   }
+   #autosUsados .textbb {
+		font-size: 11px;
+		width: 100%;
+		float: left;
+   }
+   #autosUsados .car-detail-slider {
+		width: 100%!important 
+   }
+   #autosUsados .banner-gracia {
+		position: fixed;
+		top: 30%;
+		left: 20%;
+		width: 70%;
+		float: left;
+		border-radius: 2px;
+		padding: 30px 10px;
+		z-index: 3 
+   }
+   #autosUsados .boton-gracia {
+		position: fixed;
+		top: 28%;
+		left: 87%;
+		border-radius: 30px;
+		padding: 3px 7px;
+		z-index: 99 
+   }
+   #autosUsados p.tex-gracia {
+		font-size: 15px 
+   }
+   #autosUsados .msj-g {
+		font-size: 40px;
+		margin: 0 10px 0 0 
+   }
+}
+@media only screen and (max-width:580px) {
+	.textbb {
+		font-size: 11px;
+		width: 100%;
+		float: left;
+   }
+   #autosUsados .C2 {
+		display: none;
+   }
+   #autosUsados .car-detail-slider {
+		width: 100%!important 
+   }
+   #autosUsados .CuotaP {
+		font-size: 15px 
+   }
+   #autosUsados .CuotaC, #autosUsados .cuotaPie, #autosUsados .valorF {
+		font-size: 9px 
+   }
+   #autosUsados .car-details-header-price h3 {
+		font-size: 19px;
+		width: 5 
+   }
+   #autosUsados .load-semi {
+		padding-right: 1%;
+		padding-left: 39%;
+		margin-right: auto;
+		margin-left: auto;
+		position: fixed 
+   }
+   #autosUsados .boxLista ul li {
+		width: 100%;
+		float: left;
+		margin: 0 auto;
+		padding-left: 50px 
+   }
+   #autosUsados .detalle-ccc {
+		font-size: 12px 
+   }
+   #autosUsados .panel-body {
+		padding: 35px!important 
+   }
+   #autosUsados .section-heading i {
+		float: left;
+		width: 30px;
+		height: 30px;
+		line-height: 30px 
+   }
+   #autosUsados .caja-auto {
+		width: 100%!important 
+   }
+   #autosUsados h2.h2ficha {
+		font-size: 14px;
+		font-weight: 700;
+		text-transform: uppercase;
+		border-left: 0 
+   }
+   #autosUsados .auto-detalle-list li {
+		list-style: none;
+		line-height: 2px;
+		float: left;
+		padding: 10px 5px 
+   }
+   #autosUsados .car-details {
+		padding: 10px 0 
+   }
+   #autosUsados .bcotiza, #autosUsados .mrg-precio01 {
+		display: block 
+   }
+   #autosUsados .bton-seg01 {
+		display: none 
+   }
+   #autosUsados 
+}
+@media (max-width:768px) {
+	.bton-seg01 {
+		display: none 
+   }
+   #autosUsados .textbb {
+		font-size: 11px;
+		width: 100%;
+		float: left;
+   }
+   #autosUsados .bton-seg02 {
+		position: fixed!important;
+		display: block;
+		z-index: 9999;
+		bottom: 5px;
+		width: 100%;
+		padding: 5px 20px;
+		background: rgba(1,1,1,.69) 
+   }
+   #autosUsados .Compartir-list li a {
+		font-size: 18px;
+		border-radius: 25px;
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		padding-top: 3px;
+		text-align: center;
+		line-height: 20px;
+		color: #fff;
+		border: 2px solid rgba(255,255,255,.72) 
+   }
+   #autosUsados .cotiza-30 h2, #autosUsados .volver-40 h2 {
+		margin: 0;
+		font-size: 14px;
+		color: #fff;
+		float: left;
+		text-decoration: none 
+   }
+   #autosUsados .bcotiza, #autosUsados .mrg-precio01 {
+		display: block 
+   }
+   #autosUsados .cotiza-30:before {
+		content: "";
+		position: absolute;
+		top: 0px;
+		left: -36px;
+		width: 0;
+		height: 0;
+		border-width: 18px;
+		border-style: solid;
+		border-color: transparent #e90011 transparent transparent;
+   }
+   #autosUsados .cotiza-30 {
+		-moz-box-shadow: 2px 2px 50px 0 rgba(50,50,50,.75);
+		box-shadow: 2px 2px 10px 0 rgba(50,50,50,.75);
+		background: #e90011;
+		padding: 2px 0;
+		top: -6%;
+		width: 28%;
+		right: -1%;
+   }
+   #autosUsados .cotiza-30 h2 {
+		padding: 5px 0 
+   }
+   #autosUsados .cotiza-30 a {
+		text-decoration: none 
+   }
+   #autosUsados .volver-40 {
+		width: 50%;
+		position: absolute;
+		bottom: 44px;
+		left: 68%;
+		border-radius: 18px;
+		background: #e90011;
+		padding: 3px 20px;
+		color: #fff 
+   }
+   #autosUsados .volver-40 h2 {
+		padding: 5px 0 
+   }
+   #autosUsados .volver-40 a {
+		text-decoration: none 
+   }
+   #autosUsados .flecha01 {
+		background: #e90011;
+		padding: 3px 0;
+		font-size: 16px;
+		color: #fff;
+		border: none;
+		float: left;
+		margin-right: 8px 
+   }
+	, #autosUsados #dFacebook {
+		-webkit-box-shadow:2px 2px 20px 0 rgba(50,50,50,.75);
+		-moz-box-shadow:2px 2px 50px 0 rgba(50,50,50,.75);
+		box-shadow:2px 2px 10px 0 rgba(50,50,50,.75) 
+   }
+   #autosUsados .car-detail-block {
+		margin-bottom: 10px 
+   }
+   #autosUsados .mrg-precio003 {
+		display: none 
+   }
+   #autosUsados .volver-30 h2 {
+		font-size: 20px;
+		text-decoration: none 
+   }
+   #autosUsados .volver-30 a {
+		text-decoration: none 
+   }
+   #autosUsados .navbar-toggle {
+		position: relative;
+		float: right;
+		padding: 9px 10px;
+		margin-top: 32px;
+		margin-right: 2px;
+		margin-bottom: 8px;
+		background-color: transparent;
+		background-image: none;
+		border: 1px solid transparent;
+		border-radius: 0 
+   }
+   #autosUsados .banner-slider-inner-1 h1 {
+		font-size: 30px;
+		font-weight: 900 
+   }
+   #autosUsados .car-box {
+		margin-bottom: 20px 
+   }
+   #autosUsados .banner .item {
+		height: 300px 
+   }
+   #autosUsados .banner-slider-inner-1 {
+		width: 100%;
+		text-align: center 
+   }
+   #autosUsados .car-box-body p, #autosUsados .page-section p, #autosUsados .panel-body p {
+		text-align: justify 
+   }
+   #autosUsados .banner-slider-inner-1 h2 {
+		text-transform: uppercase;
+		font-size: 30px 
+   }
+   #autosUsados .slider-mover-left {
+		width: 30px;
+		height: 30px;
+		line-height: 27px;
+		left: 0;
+		background: #1B1410 
+   }
+   #autosUsados .slider-mover-right {
+		width: 30px;
+		height: 30px;
+		line-height: 27px;
+		right: 0;
+		background: #1B1410 
+   }
+   #autosUsados .slider-mover-left img, #autosUsados .slider-mover-right img {
+		width: 12px;
+		height: 19px 
+   }
+   #autosUsados .main-header .navbar-default .nav>li>a {
+		margin-left: 0 
+   }
+   #autosUsados .section-heading h4 {
+		font-size: 12px;
+		display: none 
+   }
+   #autosUsados .breadcrumb-area h5 {
+		font-size: 18px;
+		line-height: 25px 
+   }
+   #autosUsados .breadcrumb-area .active-page, .breadcrumb-area .home-btn {
+		font-size: 16px 
+   }
+   #autosUsados .b-items-cars-one-info-header {
+		padding-bottom: 25px;
+		margin-bottom: 18px 
+   }
+   #autosUsados .car-box-body .header h3, #autosUsados .car-content h3 {
+		margin-bottom: 0 
+   }
+   #autosUsados .form-content-box {
+		padding: 15px;
+		margin-top: 50px 
+   }
+   #autosUsados .big-pic {
+		margin-top: 0 
+   }
+   #autosUsados .car-detail-info-list li {
+		font-size: 12px 
+   }
+   #autosUsados .breadcrumb-area p a {
+		margin: 0 
+   }
+   #autosUsados .option-bar .sorting {
+		padding: 6px 9px;
+		background: #FFF;
+		border: 1px solid #EEE;
+		color: #999;
+		margin-right: 2px;
+		font-size: 13px;
+		font-weight: 300;
+		float: left 
+   }
+   #autosUsados .active-view-btn, #autosUsados .active-view-btn:hover, #autosUsados .change-view-btn, #autosUsados .change-view-btn:hover {
+		padding: 5px 8px;
+		margin-left: 2px 
+   }
+   #autosUsados .change-view-btn {
+		float: left 
+   }
+   #autosUsados .details-button a {
+		font-size: 12px 
+   }
+   #autosUsados .car-box-body .header h3 span, #autosUsados .car-content h3 span {
+		padding: 4px 6px 
+   }
+   #autosUsados .panel-title {
+		font-size: 14px 
+   }
+   #autosUsados .features ul li {
+		line-height: 27px;
+		font-size: 12px 
+   }
+   #autosUsados .navbar-brand-logo {
+		width: 200px;
+		float: left 
+   }
+   #autosUsados .navbar-brand-logo img {
+		height: 46px;
+		width: 100% 
+   }
+   #autosUsados .user_avatar {
+		float: left;
+		clear: both 
+   }
+   #autosUsados .comments-content {
+		float: left;
+		clear: both;
+		margin-top: 18px 
+   }
+   #autosUsados .testimonials .slider-mover-left {
+		left: -15px 
+   }
+   #autosUsados .testimonials .slider-mover-right {
+		right: -15px 
+   }
+   #autosUsados .testimonials-inner p {
+		margin-top: 25px;
+		font-size: 18px;
+		font-weight: 300;
+		color: #7a7a7a;
+		line-height: 32px;
+		text-align: justify 
+   }
+   #autosUsados .contact-us-body {
+		padding: 30px 0 40px 
+   }
+   #autosUsados .page-section {
+		padding: 50px 0 0 
+   }
+   #autosUsados .about-Team-meet {
+		padding: 30px 0 
+   }
+   #autosUsados .breadcrumb-area h2 {
+		font-size: 30px 
+   }
+   #autosUsados .breadcrumb-area .active-page, #autosUsados .home-btn {
+		padding: 9px 20px 
+   }
+   #autosUsados .Services-box {
+		margin-bottom: 30px 
+   }
+   #autosUsados .serviceslist {
+		padding: 35px 0 25px 
+   }
+   #autosUsados .about-Team-meet .title {
+		font-size: 20px;
+		margin: 0 0 20px 
+   }
+   #autosUsados .page-section .title {
+		font-size: 18px;
+		margin: 0 0 20px 
+   }
+   #autosUsados .mrg-t-250px {
+		margin-top: 40px 
+   }
+   #autosUsados .form-content-box img {
+		height: 52px 
+   }
+   #autosUsados .Recent-news, #autosUsados .sidebar {
+		padding: 10px;
+		margin-bottom: 20px 
+   }
+   #autosUsados .car-box {
+		padding: 10px;
+		position: relative 
+   }
+   #autosUsados .option-bar {
+		background: #fff;
+		border: none;
+		padding: 5px;
+		margin-bottom: 10px 
+   }
+   #autosUsados .option-bar i {
+		font-size: 10px 
+   }
+   #autosUsados .option-bar .sorting-options {
+		margin-top: 20px 
+   }
+   #autosUsados .pagination>li>a, .pagination>li>span {
+		border-radius: 0!important;
+		margin: 0 3px 3px;
+		width: 28px;
+		height: 28px;
+		text-align: center;
+		padding: 0;
+		line-height: 28px 
+   }
+   #autosUsados .breadcrumb-area {
+		padding: 20px 10px 
+   }
+   #autosUsados .b-more {
+		padding: 25px 0 
+   }
+   #autosUsados .thumbs img {
+		width: 30px;
+		height: 20px;
+		display: inline-block 
+   }
+   #autosUsados .thumbs {
+		width: 100%!important;
+		margin: 12px auto!important;
+		background: #dde3e4;
+		padding: 3px 0 0 3px 
+   }
+   #autosUsados .comments-box, #autosUsados .panel-body {
+		padding: 10px 
+   }
+   #autosUsados .about-box img {
+		width: 100% 
+   }
+   #autosUsados .main-footer {
+		margin: 0 
+   }
+   #autosUsados .thumb-preview {
+		height: auto!important;
+		width: 100% 
+   }
+   #autosUsados ul.blog-post-comments li span.comment {
+		text-align: justify 
+   }
+   #autosUsados .car-details-header-price {
+		text-align: center 
+   }
+   #autosUsados .dealer-contact, #autosUsados .private-message-to-dealer, #autosUsados .share {
+		padding: 20px 10px 
+   }
+   #autosUsados .car-detail-block {
+		padding: 20px 10px;
+		background: #fff 
+   }
+   #autosUsados .mrg-precio01 h2 {
+		font-size: 12px!important;
+		line-height: 12px!important;
+		float: left 
+   }
+   #autosUsados .bcotiza {
+		background: #da0b13;
+		padding: 4px 16px;
+		margin-bottom: 10px;
+		text-align: center;
+		border-radius: 29px 
+   }
+   #autosUsados .bcotiza h2 {
+		margin-left: 10px;
+		color: #fff;
+		font-size: 23px;
+		margin-top: 3px;
+		margin-bottom: 0 
+   }
+   #autosUsados .bcotiza a {
+		text-decoration: none 
+   }
+   #autosUsados .pdng {
+		padding: 20px 10px 
+   }
+   #autosUsados .comments-container {
+		padding: 0 
+   }
+   #autosUsados footer {
+		width: 100%;
+		background: #2A2A2A;
+		padding: 30px 0 0 
+   }
+   #autosUsados ul.blog-post-comments li {
+		float: left 
+   }
+   #autosUsados ul.blog-post-comments li span.comment {
+		margin-left: 0!important 
+   }
+   #autosUsados ul.blog-post-comments li .comment-footer {
+		margin: 10px 0 0 
+   }
+   #autosUsados ul.blog-post-comments ul {
+		margin-left: 25px 
+   }
+   #autosUsados .nav-tabs>li {
+		float: left;
+		margin-bottom: -1px;
+		width: 100%;
+		text-align: left 
+   }
+   #autosUsados .error404 .e404 {
+		top: 10%;
+		padding: 0 
+   }
+   #autosUsados .error404 h1 {
+		font-size: 70px 
+   }
+   #autosUsados .error404 .title-error {
+		font-size: 20px 
+   }
+   #autosUsados .error404 p {
+		margin: 5px 0 110px;
+		padding: 0;
+		line-height: 1.6em;
+		color: #8a8585 
+   }
+   #autosUsados .car-box img {
+		height: auto 
+   }
+   #autosUsados 
+}
+@media (max-width:990px) {
+	.C2 {
+		display:none;
+   }
+   #autosUsados .mrg-precio01 {
+		display: block;
+   }
+   #autosUsados .cotiza-30:before {
+		content: "";
+		position: absolute;
+		top: 0px;
+		left: -36px;
+		width: 0;
+		height: 0;
+		border-width: 18px;
+		border-style: solid;
+		border-color: transparent #e90011 transparent transparent;
+   }
+   #autosUsados .sidebar {
+		margin-bottom: 25px!important;
+		text-align: left;
+	   /*display: none;
+	   */
+   }
+   #autosUsados 
+}
+@media (min-width:768px) and (max-width:1024px) {
+	#autosUsados .cotiza-30 a, #autosUsados .volver-40 a, #autosUsados .volver-40 h2 {
+		text-decoration: none 
+   }
+	.bton-seg01 {
+		display: none 
+   }
+   #autosUsados .bton-seg02 {
+		position: fixed!important;
+		display: block;
+		z-index: 9999;
+		bottom: 5px;
+		width: 100%;
+		padding: 5px 20px;
+		background: rgba(1,1,1,.69) 
+   }
+   #autosUsados .Compartir-list li a {
+		font-size: 15px;
+		border-radius: 25px;
+		display: inline-block;
+		width: 33px;
+		height: 32px;
+		padding-top: 4px;
+		text-align: center;
+		line-height: 23px;
+		color: #fff;
+		border: 2px solid rgba(255,255,255,.72) 
+   }
+   #autosUsados .cotiza-30 {
+	   /* border-radius: 30px;
+		*/
+		background: #e90011;
+		padding: 3px 20px;
+		-webkit-box-shadow: 2px 2px 20px 0 rgba(50,50,50,.75);
+		-moz-box-shadow: 2px 2px 50px 0 rgba(50,50,50,.75);
+		box-shadow: 2px 2px 10px 0 rgba(50,50,50,.75);
+   }
+   #autosUsados .cotiza-30 h2 {
+		margin: 0;
+		float: left;
+		color: #fff;
+		font-size: 15px;
+		text-decoration: none;
+		padding: 5px 0 
+   }
+   #autosUsados .volver-40 {
+		position: initial;
+		border-radius: 18px;
+		background: #e90011;
+		padding: 3px 20px;
+		color: #fff 
+   }
+   #autosUsados .volver-40 h2 {
+		margin: 0;
+		float: left;
+		color: #fff;
+		font-size: 14px;
+		padding: 5px 0 
+   }
+   #autosUsados .mrg-precio003 {
+		display: none 
+   }
+   #autosUsados .flecha01 {
+		background: #e90011;
+		padding: 0;
+		font-size: 19px;
+		color: #fff;
+		border: none;
+		float: left;
+		margin-right: 10px 
+   }
+	, #autosUsados #dFacebook {
+		-webkit-box-shadow:2px 2px 20px 0 rgba(50,50,50,.75);
+		-moz-box-shadow:2px 2px 50px 0 rgba(50,50,50,.75);
+		box-shadow:2px 2px 10px 0 rgba(50,50,50,.75) 
+   }
+   #autosUsados .banner-gracia {
+		position: fixed;
+		top: 30%;
+		left: 20%;
+		width: 60%;
+		float: left;
+		border-radius: 2px;
+		padding: 30px 10px;
+		z-index: 3 
+   }
+   #autosUsados .boton-gracia {
+		position: fixed;
+		top: 28%;
+		left: 77% 
+   }
+   #autosUsados p.tex-gracia {
+		font-size: 15px 
+   }
+   #autosUsados .msj-g {
+		font-size: 40px;
+		margin: 0 10px 0 0 
+   }
+   #autosUsados .navbar-brand-logo {
+		width: 170px 
+   }
+   #autosUsados .navbar-brand-logo img {
+		height: 36px 
+   }
+   #autosUsados .main-header .navbar-default .nav>li>a {
+		padding: 4px 10px;
+		margin-left: 9px 
+   }
+   #autosUsados .car-box img {
+		height: auto 
+   }
+   #autosUsados 
+}
+@media (min-width:1024px) and (max-width:1200px) {
+	.thumbs {
+		width: 100%!important 
+   }
+   #autosUsados .CuotaP {
+		font-size: 18px 
+   }
+   #autosUsados .volver-30 h2 {
+		text-decoration: none;
+		font-size: 14px;
+   }
+   #autosUsados 
+}
+/*----selector ordenar por-----------*/
+.selOrden.col-md-8 {
+	margin: 0;
+	padding: 0;
+}
+#autosUsados .SelTex.col-md-4 {
+	font-size: 12px;
+	color: #0e0e0e;
+	margin: 0;
+	text-align: right;
+}
+#autosUsados select.form-control.SelOption {
+	padding: 0;
+	border: 1px solid #a5a5a5;
+	height: 22px;
+	color: #797878;
+	background: #f8f8f8;
+}
+#autosUsados ul.M-list {
+	text-align: right!important;
+	margin: 0;
+	padding: 0;
+}
+#autosUsados .M-list li {
+	list-style: none;
+	float: right;
+   /* margin-right: 11px;
+	*/
+}
+#autosUsados .box-multimedia {
+	position: absolute;
+	bottom: 0;
+	z-index: 999;
+	display:block;
+}
+#autosUsados .bton-video li a {
+	font-size: 20px;
+	border-radius: 12px;
+	display: inline-block;
+	width: 40px;
+	height: 41px;
+	padding-top: 4px;
+	text-align: center;
+	line-height: 28px;
+	color: #fff;
+	border: 2px solid rgba(255,255,255,.72);
+	background: #e90011;
+	position: absolute;
+	z-index: 999;
+	margin: 10px;
+	bottom: 0;
+}
+.bton-video a {
+   color:#fff;
+}
+.bton-360 li a {
+	font-size: 20px;
+	border-radius: 12px;
+	display: inline-block;
+	padding-top: 4px;
+	text-align: center;
+	line-height: 28px;
+	color: #fff;
+	border: 2px solid rgba(255,255,255,.72);
+	background: #e90011;
+	position: absolute;
+	z-index: 999;
+	margin: 10px;
+	bottom: 0;
+}
+.bton-video {
+	font-size: 20px;
+	border-radius: 12px;
+	background: #e90011;
+	margin: 10px 5px;
+	padding: 4px 10px;
+	border: 2px Solid #ffffffa3;
+	height: 41px;
+}
+#autosUsados .bton-360 {
+   font-size: 20px;
+   border-radius: 12px;
+   background: #075fec;
+   margin: 10px 5px;
+   padding: 1px 5px;
+   border: 2px Solid #ffffffa3;
+   height: 41px;
+   width: 45px;
+}
+#autosUsados .bton-360 a {
+   color:#fff;
+}
+#autosUsados 
+/*Fancybox*/
+.fancybox-custom .fancybox-skin {
+	box-shadow: 0 0 50px #222;
+}
+.bannerpromo {
+	padding: 0 !important;
+	margin: 0;
+	margin-bottom: 29px !important;
+	display: none;
+}
+/*----------Gracias Cotizacion-----*/
+.btn-link-1 {
+	display: inline-block;
+	height: 50px;
+	margin: 5px;
+	padding: 16px 20px 0 20px;
+	background: #19b9e7;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 16px;
+	color: #fff;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.btn-link-1:hover, .btn-link-1:focus, .btn-link-1:active {
+	outline: 0;
+	opacity: 0.6;
+	color: #fff;
+}
+.btn-link-1.btn-link-1-facebook {
+	background: #4862a3;
+}
+.btn-link-1.btn-link-1-twitter {
+	background: #55acee;
+}
+.btn-link-1.btn-link-1-google-plus {
+	background: #dd4b39;
+}
+.btn-link-1.btn-link-1-VolverS {
+	background: #bf0000;
+}
+.btn-link-1.btn-link-1-VolverF {
+	background: #d85d5d;
+}
+.btn-link-1 i {
+	padding-right: 5px;
+	vertical-align: middle;
+	font-size: 20px;
+	line-height: 20px;
+}
+.btn-link-2 {
+	display: inline-block;
+	height: 50px;
+	margin: 5px;
+	padding: 15px 20px 0 20px;
+	background: rgba(0, 0, 0, 0.3);
+	border: 1px solid #fff;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 16px;
+	color: #fff;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.btn-link-2:hover, .btn-link-2:focus, .btn-link-2:active, .btn-link-2:active:focus {
+	outline: 0;
+	opacity: 0.6;
+	background: rgba(0, 0, 0, 0.3);
+	color: #fff;
+}
+/***** Top content *****/
+.inner-bg {
+	padding: 60px 0 80px 0;
+}
+.top-content .description {
+	margin: 20px 0 10px 0;
+}
+.top-content .description a:hover, .top-content .description a:focus {
+	border-bottom: 1px dotted #19b9e7;
+}
+.form-box {
+	margin-top: 70px;
+}
+.form-top {
+	overflow: hidden;
+	padding: 0 25px 15px 25px;
+	background: #f3f3f3;
+	-moz-border-radius: 4px 4px 0 0;
+	-webkit-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+	text-align: left;
+}
+.form-top-left {
+	float: left;
+	width: 75%;
+	padding-top: 25px;
+}
+.form-top-left h3 {
+	margin-top: 0;
+}
+.form-top-right {
+	float: left;
+	width: 25%;
+	padding-top: 5px;
+	font-size: 66px;
+	color: #ddd;
+	line-height: 100px;
+	text-align: right;
+}
+.form-bottom {
+	padding: 25px 25px 30px 25px;
+	background: #eee;
+	-moz-border-radius: 0 0 4px 4px;
+	-webkit-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+	text-align: left;
+}
+.form-bottom form textarea {
+	height: 100px;
+}
+.form-bottom form button.btn {
+	width: 100%;
+}
+.form-bottom form .input-error {
+	border-color: #19b9e7;
+}
+.social-login {
+	margin-top: 35px;
+}
+.social-login-buttons {
+	margin-top: 25px;
+}

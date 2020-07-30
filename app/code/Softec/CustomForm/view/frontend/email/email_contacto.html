@@ -1,0 +1,29 @@
+{{template config_path="design/email/header_template"}}
+<!--@subject {{trans "Contacto "}}  @-->
+<table>
+    <tr>
+    	<td><strong>Nombre</strong></td>
+    	<td>{{var nombre}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Apellido</strong></td>
+    	<td>{{var apellido}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Teléfono</strong></td>
+    	<td>{{var telefono}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Correo</strong></td>
+    	<td>{{var correo}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Comentario</strong></td>
+    	<td>{{var comentario}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Términos</strong></td>
+    	<td>{{var terminos}}</td>
+    </tr>
+</table>
+{{template config_path="design/email/footer_template"}}

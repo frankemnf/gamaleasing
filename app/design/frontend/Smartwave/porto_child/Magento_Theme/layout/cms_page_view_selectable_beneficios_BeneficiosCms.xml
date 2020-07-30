@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="page.top">
+            <block class="Magento\Cms\Block\Block" name="cms_header_beneficios">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">header_beneficios</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <referenceContainer name="page.top">
+            <block class="Magento\Cms\Block\Block" name="cms_content_custom">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">custom_cms_1</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+    </body>
+ </page>

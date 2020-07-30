@@ -1,0 +1,41 @@
+{{template config_path="design/email/header_template"}}
+<!--@subject {{trans "Correo de Leasing Operativo "}}  @-->
+<table>
+    <tr>
+    	<td><strong>RUT Empresa</strong></td>
+    	<td>{{var rut_empresa}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Razón Social</strong></td>
+    	<td>{{var razon_social}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Tipo Vehículo</strong></td>
+    	<td>{{var tipo_vehiculo}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Unidades</strong></td>
+    	<td>{{var unidades}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Industria</strong></td>
+    	<td>{{var industria}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Nombre</strong></td>
+    	<td>{{var nombre}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Rut Contacto</strong></td>
+    	<td>{{var rut_contacto}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Email</strong></td>
+    	<td>{{var email}}</td>
+    </tr>
+    <tr>
+    	<td><strong>Teléfono</strong></td>
+    	<td>{{var telefono}}</td>
+    </tr>
+</table>
+{{template config_path="design/email/footer_template"}}
