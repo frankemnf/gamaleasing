@@ -77,6 +77,8 @@ require([
             else
                 $(this).parent().children(".nav-sections").addClass("visible")
         });
+        $("#renting_tab a.btn").attr("href", "https://gamarenting.cl/");
+        console.log('In AH');
     });
 <?php if ($this->getConfig('porto_settings/header/sticky_header')): ?>
     var scrolled = false;

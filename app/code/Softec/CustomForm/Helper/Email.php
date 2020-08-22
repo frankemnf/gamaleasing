@@ -46,7 +46,7 @@ class Email extends AbstractHelper
             $this->inlineTranslation->suspend();
             $sender = [
                 'name' => $this->escaper->escapeHtml('WEB GamaLeasing'),
-                'email' => $this->escaper->escapeHtml('no-reply@corp.gamaleasing.fullkom.com'),
+                'email' => $this->escaper->escapeHtml('contacto@gamaleasing.cl'),
             ];
             $transport = $this->transportBuilder
                 ->setTemplateIdentifier('email_home')

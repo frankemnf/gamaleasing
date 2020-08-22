@@ -22,14 +22,31 @@ $mikilo         = isset($_REQUEST["Kilometro"]) ? $_REQUEST["Kilometro"] : "";
     <link rel="shortcut icon" type="image/x-icon" href="imagenes/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://gamaleasing.cl/pub/media/custom.css" />
+    <link rel="stylesheet" type="text/css"
+href="https://gamaleasing.cl/pub/static/frontend/Smartwave/porto_child/es_ES/css/styles-m.css">
 
+    <link rel="stylesheet" type="text/css"
+href="https://gamaleasing.cl/pub/static/frontend/Smartwave/porto_child/es_ES/css/styles-l.css">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="https://gamaleasing.cl/pub/media/styles.css">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="https://gamaleasing.cl/pub/static/frontend/Smartwave/porto_child/es_ES/Smartwave_Dailydeals/css/style.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://gamaleasing.cl/pub/static/frontend/Smartwave/porto_child/es_ES/css/print.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://gamaleasing.cl/pub/static/version1596423307/frontend/Smartwave/porto_child/es_ES/fancybox/css/jquery.fancybox.css">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="https://gamaleasing.cl/pub/media/bootstrap/bootstrap.min.css">
+    
     <?php include("complementos/head-index.php"); ?>
 
 
 
 
     <?php
-    
+
+        
 // Set a config array of information related to your Magento 2 installation
 $config = [
     'bootstrap_path' => '../app/bootstrap.php',
@@ -64,10 +81,10 @@ $integration = $app->launch([
 $specialAssets = $integration->getPageComponents();
 echo $specialAssets['requireJs'];
 
-echo $specialAssets['headContent'];
-echo $specialAssets['headAdditional'];
+//echo $specialAssets['headContent'];
+//echo $specialAssets['headAdditional'];
 
-echo $integration->getBlockHtml('head.additional');
+//echo $integration->getBlockHtml('head.additional');
 
 ?>
 
@@ -107,6 +124,37 @@ echo $integration->getBlockHtml('head.additional');
 </head>
 
 <style>
+    .page-header.type6.header-newskin {
+        border-bottom: 0;
+        margin-bottom: 50px;
+    }
+    .page-header.type6 .navigation {
+        margin: -120px 0 0;
+    }
+    .page-header.type6.header-newskin .header.content {
+        padding: 0;
+    }
+    a.logo {
+        margin: 15px 0 35px;
+    }
+    .footer-middle .block-content .logo_footer img {
+        width: 190px;
+    }
+    @media only screen and (max-width: 768px) {
+        .nav-toggle {
+            float: right;
+            margin-top: 20px;
+        }
+        .nav-toggle:before {
+            color: #FF5F00;
+        }
+        .page-header.type6.header-newskin {
+            margin: 0;
+        }
+        .page-header.type6.header-newskin {
+            border-top: 0;
+        }
+    }
     @media only screen and (max-width: 480px) {
         .ocultar-m {
             display: none;
